@@ -1,0 +1,29 @@
+[33mcommit 883498d8309d997dace6c4f9e5760183b3829715[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mFeat-Postgres-Docker[m[33m, [m[1;31morigin/test[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Svenski <ben.hans.miller@gmail.com>
+Date:   Thu Oct 1 19:30:50 2026 +0100
+
+    feat: added Actuator /health
+
+[33mcommit b2935c5456936c7f8769ed21db6368b41e7e24eb[m
+Author: Svenski <ben.hans.miller@gmail.com>
+Date:   Sun Sep 27 19:53:27 2026 +0100
+
+    chore: added backend README
+
+[33mcommit a98d4576b0ac565bcdc75095796a30953c649d80[m
+Author: Svenski <ben.hans.miller@gmail.com>
+Date:   Sun Sep 27 19:47:55 2026 +0100
+
+    feat: added swagger gui to api
+
+[33mcommit 92af7ae936df9f4eb448342e37fdbe1856bcda1a[m
+Author: Svenski <ben.hans.miller@gmail.com>
+Date:   Sun Sep 27 19:27:31 2026 +0100
+
+    init: dockererize springboot api
+
+[33mcommit 2075d3c5eb7233ae174a9ea162e2fa03defc492f[m
+Author: Svenski <ben.hans.miller@gmail.com>
+Date:   Sun Sep 27 08:37:25 2026 +0100
+
+    Project init
